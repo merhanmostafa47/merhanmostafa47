@@ -1,6 +1,6 @@
-<h1 align="center">Hi , I'm Ahmed Hossam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Merhan Mostafa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2021+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Frontend+Learner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
 
@@ -18,32 +18,19 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Mansoura University
-- :trophy: `ACPC` Finalist 2021
-- :technologist: I love using Software as a solution for every `Problem`
-- :computer: I am a competitive programmer mainly at `Codeforces`
-- :student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
+- :technologist: 
+- :computer: 
+- :student: I’m currently learning: `Computer Science`.
+(https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=algolia" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=algolia" alt="Merhan" /></p>
 
 <br>
 <br>
-
-
-## 👀 My Competitive Programming Profiles
-
-<p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder"/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global"/></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
-</p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
@@ -52,7 +39,6 @@
 	<a href="https://www.linkedin.com/in/merhanmostafa47/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/merhanmostafa47/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
-
 
 
 
@@ -127,7 +113,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/merhanmostafa47"><img alt="Merhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/merhanmostafa47"><img alt="Merhan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=merhanmostafa47&custom_title=Merhan's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
@@ -140,4 +126,4 @@
 -----
 Credits: [Merhan](https://github.com/merhanmostafa47)
 
-Last Edited on: 10/02/2022
+Last Edited on: 26/04/2022
