@@ -21,7 +21,6 @@
 - :technologist: 
 - :computer: 
 - :student: I’m currently learning: `Computer Science`.
-(https://drive.google.com/file/d/1gdiny_4f5TVbSdfyAQxokLMMrBTi054P/view?usp=sharing).
 - :nerd_face: Always `learning new things`
 
 <br>
