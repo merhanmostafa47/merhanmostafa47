@@ -12,7 +12,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Mansoura University
-- - :student: I’m currently learning: `Computer Science`.
+- :student: I’m currently learning: `Computer Science`.
 - 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/merhanmostafa47)
 <!-- - 🌱 I’m currently learning `` -->
 - 📫 How to reach me **merhanmostafa47@gmail.com**
@@ -83,6 +83,10 @@
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+	
+ &emsp;
+    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Andriod%20Studio-0078d7.svg?&style=plastic&logo=android&studioColor=white" /></a>
+  &emsp;
 </p>
 
 
