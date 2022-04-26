@@ -6,15 +6,7 @@
 	<img src="https://img.shields.io/github/followers/merhanmostafa47?label=Followers" alt="Merhan Mostafa" />
 </p>
 
-
 <br>
-
-<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=merhanmostafa47&label=Profile%20views&color=0e75b6&style=plastic" alt="Merhan" /> 
-	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Merhan" target="_blank"/> 
-	</a>
-</p>
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
