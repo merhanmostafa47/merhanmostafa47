@@ -1,6 +1,9 @@
 <h1 align="center">Hi , I'm Merhan Mostafa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Frontend+Learner;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=merhanmostafa47&label=Profile%20views&color=0e75b6&style=flat" alt="Merhan Mostafa" /> 
+	<img src="https://badges.pufler.dev/repos/merhanmostafa47" alt="Merhan Mostafa" />
+	<img src="https://img.shields.io/github/followers/merhanmostafa47?label=Followers" alt="Merhan Mostafa" />
 </p>
 
 
