@@ -18,8 +18,6 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Mansoura University
-- :technologist: 
-- :computer: 
 - :student: I’m currently learning: `Computer Science`.
 - :nerd_face: Always `learning new things`
 
@@ -120,9 +118,9 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merhanmostafa47&layout=compact&theme=algolia" alt="Merhan" /></a> </p>
+<p align="center"> <a href="https://github.com/merhanmostafa47/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merhanmostafa47&layout=compact&theme=algolia" alt="Merhan" /></a> </p>
 
 -----
-Credits: [Merhan](https://github.com/merhanmostafa47)
+Credits: [Merhan Mostafa](https://github.com/merhanmostafa47)
 
 Last Edited on: 26/04/2022
