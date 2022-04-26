@@ -118,7 +118,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/merhanmostafa47/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merhanmostafa47&layout=compact&theme=algolia" alt="Merhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merhanmostafa47&layout=compact&theme=algolia" alt="Merhan" /></a> </p>
 
 -----
 Credits: [Merhan Mostafa](https://github.com/merhanmostafa47)
