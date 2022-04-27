@@ -105,7 +105,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Merhan Mostafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merhanmostafa47&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/merhanmostafa47"><img alt="Merhan Mostafa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=merhanmostafa47&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 
