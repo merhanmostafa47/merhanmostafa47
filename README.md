@@ -44,7 +44,7 @@
 <p align="center"> 
    &emsp;
   <a href="https://www.geeksforgeeks.org/c-sharp-tutorial/" target="_blank"> 
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white>">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=c-sharp&logoColor=white>">
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
