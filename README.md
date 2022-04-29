@@ -13,7 +13,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a `Junior` at Faculty of Computers & Informatics at Mansoura University
-- :student: I’m currently learning: `Computer Science`.
+- :student: I’m currently learning: `JavaScript `.
 - 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/merhanmostafa47)
 - 📫 How to reach me **merhanmostafa47@gmail.com**
 - :nerd_face: Always `learning new things`
