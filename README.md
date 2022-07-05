@@ -27,15 +27,35 @@
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px" height="30px">Connect with me
+  <div align="center">
+
+  <h3><b>😄 Can Connect With Me On</b></h3>
+
+  </div>
+
 <p align="center">
-	<a href="mailto:merhanmostafa47@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/merhanmostafa47"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/merhanmostafa47/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/merhanmostafa47/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
 
+<a href="https://www.linkedin.com/in/merhanmostafa47/" target="_blank">
 
+  <img align="center" alt="Merhan Mostafa | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+
+</a> &nbsp;&nbsp;
+
+<a href="mailto:merhanmostafa47@gmail.com" >
+
+  <img align="center" alt="Merhan Mostafa | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+
+</a> &nbsp;&nbsp;
+
+<a href="https://www.facebook.com/merhanmostafa47/">
+
+    <img align="center" alt="Merhan Mostafa | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+
+</a> &nbsp;&nbsp;
+
+<p>
+
+<br>
 
 ## 🛠️ My Skills
 
@@ -52,6 +72,8 @@
   </a>
 </p>
 
+<br>
+
 ### 👉 Frontend Development
 <p align="center"> 
   &emsp; 
@@ -63,6 +85,8 @@
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white">
   </a> 
 </p>
+
+<br>
 
  ### 👉 Software & Tools
  
@@ -77,6 +101,8 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
+<br>
+
  ### 👉 IDEs
  
 <p align="center">
@@ -87,7 +113,7 @@
   &emsp;
 </p>
 
-
+<br>
 
 ## 📊 Github Stats
 
