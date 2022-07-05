@@ -49,11 +49,11 @@
 
 <a href="https://www.facebook.com/merhanmostafa47/">
 
-    <img align="center" alt="Merhan Mostafa | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+<img align="center" alt="Merhan Mostafa | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 
 </a> &nbsp;&nbsp;
 
-<p>
+</p>
 
 <br>
 
