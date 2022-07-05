@@ -27,36 +27,6 @@
 <br>
 <br>
 
-  <div align="center">
-
-  <h3><b>😄 Can Connect With Me On</b></h3>
-
-  </div>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/merhanmostafa47/" target="_blank">
-
-  <img align="center" alt="Merhan Mostafa | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-
-</a> &nbsp;&nbsp;
-
-<a href="mailto:merhanmostafa47@gmail.com" >
-
-  <img align="center" alt="Merhan Mostafa | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-
-</a> &nbsp;&nbsp;
-
-<a href="https://www.facebook.com/merhanmostafa47/">
-
-<img align="center" alt="Merhan Mostafa | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-
-</a> &nbsp;&nbsp;
-
-</p>
-
-<br>
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -140,6 +110,30 @@
 ## :trophy: Git profile Trophies
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merhanmostafa47&layout=compact&theme=algolia" alt="Merhan" /></a> </p>
+
+<br>
+
+<div align="center">
+
+  <h3><b>😄 Can Connect With Me On</b></h3>
+
+  </div>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/merhanmostafa47/" target="_blank">
+  <img align="center" alt="Merhan Mostafa | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+	
+<a href="mailto:merhanmostafa47@gmail.com">
+  <img align="center" alt="Merhan Mostafa | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+
+<a href="https://www.facebook.com/merhanmostafa47/" target="_blank">
+<img align="center" alt="Merhan Mostafa | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+
+</p>
 
 -----
 
