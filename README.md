@@ -17,8 +17,9 @@
 - 🔭 I’m currently working on [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/merhanmostafa47)
 - :thinking: I’m currently open for: `An Intern`, this is [My Resume](https://www.canva.com/design/DAEWgjp0CJ0/us4n5kurZRjY3far6g59fQ/view?utm_content=DAEWgjp0CJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - 📫 How to reach me **merhanmostafa47@gmail.com**
-- :nerd_face: Always `learning new things`
 - 🌱 I’m currently worked at [Spider-te8](https://www.facebook.com/spiderte8)
+- :nerd_face: Always `learning new things`
+
 
 <br>
 
