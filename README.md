@@ -101,6 +101,14 @@
 
 <br>
 
+### ✍️Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+</p>
+
+<br>
+
 <div align="center">
 
   <h3><b>😄 Can Connect With Me On</b></h3>
