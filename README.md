@@ -6,8 +6,8 @@
 	<!--<img src="https://badges.pufler.dev/repos/merhanmostafa47" alt="Merhan Mostafa" />-->
 	<img src="https://img.shields.io/github/followers/merhanmostafa47?label=Followers" alt="Merhan Mostafa" />
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F/merhanmostafa47/1212%2Fhit-counter" alt="Merhan Mostafa" />
-	<a src="https://www.frontendmentor.io/profile/merhanmostafa47)"><img src="https://img.shields.io/badge/Front--end%20Mentor-Follow-blue" alt="Merhan Mostafa" /></a>
-	[![Front-End Mentor](https://img.shields.io/badge/Front--end%20Mentor-Follow-blue)](https://www.frontendmentor.io/profile/merhanmostafa47)
+	<a href="https://www.frontendmentor.io/profile/merhanmostafa47"><img src="https://img.shields.io/badge/Front--end%20Mentor-Follow-blue" alt="Merhan Mostafa" /></a>
+	
 </p>
 
 <br>
