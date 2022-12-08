@@ -14,7 +14,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Junior` at Faculty of Computers & Informatics at Mansoura University
+- :school: I am a `Senior` at Faculty of Computers & Informatics at Mansoura University
 - :student: I’m currently learning: `Javascript`.
 - 🔭 I’m currently working on building my portfolio 
 - :thinking: I’m currently open for: `An Intern`, this is [My Resume](https://www.canva.com/design/DAEWgjp0CJ0/us4n5kurZRjY3far6g59fQ/view?utm_content=DAEWgjp0CJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
