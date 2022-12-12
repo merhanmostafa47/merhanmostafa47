@@ -12,6 +12,9 @@
 
 <br>
 
+
+<a href="https://app.daily.dev/merhanmostafa47" align='right'><img src="https://api.daily.dev/devcards/febd585fac1649d29984f849f813f30a.png?r=pf4" width="300" alt="Merhan Mostafa's Dev Card"/></a>
+
 ## :sassy_man:  About me
 - :school: I am a `Senior` at Faculty of Computers & Informatics at Mansoura University
 - :student: I’m currently learning: `Javascript`.
@@ -20,10 +23,6 @@
 - 📫 How to reach me **merhanmostafa47@gmail.com**
 - 🌱 I’m currently worked at [Spider-te8](https://www.facebook.com/spiderte8)
 - :nerd_face: Always `learning new things`
-
-
-<a href="https://app.daily.dev/merhanmostafa47" align='right'><img src="https://api.daily.dev/devcards/febd585fac1649d29984f849f813f30a.png?r=pf4" width="300" alt="Merhan Mostafa's Dev Card"/></a>
-
 
 	
 <br>
