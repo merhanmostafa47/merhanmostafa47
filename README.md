@@ -13,7 +13,7 @@
 <br>
 
 
-<a href="https://app.daily.dev/merhanmostafa47" align='right'><img align='right' src="https://api.daily.dev/devcards/febd585fac1649d29984f849f813f30a.png?r=pf4" width="300" alt="Merhan Mostafa's Dev Card"/></a>
+<a href="https://app.daily.dev/merhanmostafa47" align='right'><img align='right' src="https://api.daily.dev/devcards/febd585fac1649d29984f849f813f30a.png?r=pf4" width="250" alt="Merhan Mostafa's Dev Card"/></a>
 
 ## :sassy_man:  About me
 - :school: I am a `Senior` at Faculty of Computers & Informatics at Mansoura University
