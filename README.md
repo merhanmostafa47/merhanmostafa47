@@ -12,8 +12,6 @@
 
 <br>
 
-<div style="display:flex; align-items: center; justify-content:center; gap:1rem">
-<div>
 ## :sassy_man:  About me
 - :school: I am a `Senior` at Faculty of Computers & Informatics at Mansoura University
 - :student: I’m currently learning: `Javascript`.
@@ -24,10 +22,7 @@
 - :nerd_face: Always `learning new things`
 </div>
 
-<div>
-<a href="https://app.daily.dev/merhanmostafa47"><img src="https://api.daily.dev/devcards/febd585fac1649d29984f849f813f30a.png?r=pf4" width="400" alt="Merhan Mostafa's Dev Card"/></a>
-</div>
-<>/div
+
 	
 <br>
 
