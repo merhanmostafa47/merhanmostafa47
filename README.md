@@ -90,6 +90,8 @@
   &nbsp;
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=merhanmostafa47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Merhan" height="192px"/>
   <br/>
+	
+	[![Merhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=merhanmostafa47)](https://github.com/anuraghazra/github-readme-stats)
   </p>
 
 ----
