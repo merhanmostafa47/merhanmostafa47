@@ -106,7 +106,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merhanmostafa47&layout=compact&theme=dark&theme=tokyonight" alt="Merhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merhanmostafa47&layout=compact&theme=dark&theme=onestar" alt="Merhan" /></a> </p>
 
 <br>
 
