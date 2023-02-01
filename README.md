@@ -32,11 +32,7 @@
 
 ## 🔥 Streak Stats
 
-	
-	<p align="center">
-    <a href="https://github.com/merhanmostafa47/github-readme-stats"><img alt="Merhan's Github Stats" src="https://streak-stats.demolab.com?user=merhanmostafa47&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000" height="192px"/></a>
-    </p>
-	
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=dark-smoky" alt="Merhan" /></p>
 
 
 ## 🛠️ My Skills
