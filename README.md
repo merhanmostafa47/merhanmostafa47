@@ -31,7 +31,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=dark&show_icons=true&theme=dark#gh-dark-mode-only" alt="Merhan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=dark&show_icons=true&bg_color=00000000" alt="Merhan" /></p>
 
 
 ## 🛠️ My Skills
