@@ -32,7 +32,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=dark-smoky" alt="Merhan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=tokyonight" alt="Merhan" /></p>
 
 
 ## 🛠️ My Skills
@@ -87,10 +87,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Merhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merhanmostafa47&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Merhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merhanmostafa47&show_icons=true&count_private=true&theme=tokyonight" height="192px"/></a>
 <br/>
   &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=merhanmostafa47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Merhan" height="192px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=merhanmostafa47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Merhan" height="192px"/>
   <br/>
 	
   </p>
