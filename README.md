@@ -31,7 +31,9 @@
 <br>
 
 ## 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=merhanmostafa47&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
+<p align="center"> 
+	[![GitHub Streak](https://streak-stats.demolab.com?user=merhanmostafa47&theme=dark-smoky&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=000000)](https://git.io/streak-stats)
+	</p>
 
 
 ## 🛠️ My Skills
