@@ -86,10 +86,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Merhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merhanmostafa47&show_icons=true&count_private=true&theme=transparent&theme=dark#gh-dark-mode-only" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Merhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merhanmostafa47&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
 <br/>
   &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=merhanmostafa47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent&theme=dark#gh-dark-mode-only" alt="Merhan" height="192px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=merhanmostafa47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Merhan" height="192px"/>
   <br/>
 	
   </p>
@@ -98,7 +98,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-    <a href="https://github.com/merhanmostafa47"><img alt="Merhan Mostafa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=merhanmostafa47&custom_title=Merhan%20Mostafa%27s%20Contribution%20Graph&theme=transparent" /></a>
+    <a href="https://github.com/merhanmostafa47"><img alt="Merhan Mostafa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=merhanmostafa47&custom_title=Merhan%20Mostafa%27s%20Contribution%20Graph&theme=dark" /></a>
   <br/>
 
 <br/>
