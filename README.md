@@ -99,7 +99,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-    <a href="https://github.com/merhanmostafa47"><img alt="Merhan Mostafa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=merhanmostafa47&custom_title=Merhan%20Mostafa%27s%20Contribution%20Graph&theme=dark" /></a>
+    <a href="https://github.com/merhanmostafa47"><img alt="Merhan Mostafa's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=merhanmostafa47&theme=tokyo-night"></a>
   <br/>
 
 <br/>
