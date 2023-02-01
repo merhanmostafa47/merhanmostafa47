@@ -30,7 +30,7 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=vision-friendly-dark" alt="Merhan" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=transparent" alt="Merhan" /></p>
 
 
 ## 🛠️ My Skills
@@ -110,7 +110,7 @@
 ### ✍️Random Dev Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent">
 </p>
 
 <br>
