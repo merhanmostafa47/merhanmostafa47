@@ -6,7 +6,7 @@
 	<!--<img src="https://badges.pufler.dev/repos/merhanmostafa47" alt="Merhan Mostafa" />-->
 	<img src="https://img.shields.io/github/followers/merhanmostafa47?label=Followers" alt="Merhan Mostafa" />
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F/merhanmostafa47/1212%2Fhit-counter" alt="Merhan Mostafa" />
-	[![wakatime](https://wakatime.com/badge/user/ae4e74c8-3a6a-4de1-a890-24a13ae4568d.svg)](https://wakatime.com/@ae4e74c8-3a6a-4de1-a890-24a13ae4568d)
+        <img src="https://wakatime.com/badge/user/ae4e74c8-3a6a-4de1-a890-24a13ae4568d.svg" alt="Merhan Mostafa" />
 	<a href="https://www.frontendmentor.io/profile/merhanmostafa47"><img src="https://img.shields.io/badge/Front--end%20Mentor-Follow-blue" alt="Merhan Mostafa" /></a>
 	
 </p>
@@ -92,7 +92,6 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=merhanmostafa47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Merhan" height="192px"/>
   <br/>
 	
-	[![Merhan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=merhanmostafa47)](https://github.com/merhanmostafa47/github-readme-stats)
   </p>
 
 ----
