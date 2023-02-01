@@ -86,7 +86,7 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p style="display:flex;justify-content:center;flex-direction:row">
+  <p align="center">
 <img alt="Merhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merhanmostafa47&show_icons=true&count_private=true&theme=tokyonight" height="192px"/>
 	
 &nbsp;
