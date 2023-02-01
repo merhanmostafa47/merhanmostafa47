@@ -85,10 +85,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Merhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merhanmostafa47&show_icons=true&count_private=true&theme=vision-friendly-dark" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Merhan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=merhanmostafa47&show_icons=true&count_private=true&theme=transparent" height="192px"/></a>
 <br/>
   &nbsp;
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=merhanmostafa47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="Merhan" height="192px"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=merhanmostafa47&langs_count=10&show_icons=true&locale=en&layout=compact&theme=transparent" alt="Merhan" height="192px"/>
   <br/>
   </p>
 
@@ -96,14 +96,14 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-    <a href="https://github.com/merhanmostafa47"><img alt="Merhan Mostafa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=merhanmostafa47&custom_title=Merhan%20Mostafa%27s%20Contribution%20Graph&theme=vision-friendly-dark" /></a>
+    <a href="https://github.com/merhanmostafa47"><img alt="Merhan Mostafa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=merhanmostafa47&custom_title=Merhan%20Mostafa%27s%20Contribution%20Graph&theme=transparent" /></a>
   <br/>
 
 <br/>
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merhanmostafa47&layout=compact&theme=vision-friendly-dark" alt="Merhan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=merhanmostafa47&layout=compact&theme=transparent" alt="Merhan" /></a> </p>
 
 <br>
 
