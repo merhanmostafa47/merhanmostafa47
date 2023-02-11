@@ -20,7 +20,7 @@
 - :school: I am a `Senior` at Faculty of Computers & Informatics at Mansoura University
 - :student: I’m currently learning: `Javascript`.
 - 🔭 I’m currently working on building my portfolio 
-- :thinking: I’m currently open for: `An Intern`, this is [My Resume](https://www.canva.com/design/DAEWgjp0CJ0/us4n5kurZRjY3far6g59fQ/view?utm_content=DAEWgjp0CJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- :thinking: I’m currently open for: `An Intern`, this is [My Resume]([https://www.canva.com/design/DAEWgjp0CJ0/us4n5kurZRjY3far6g59fQ/view?utm_content=DAEWgjp0CJ0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFRxisYpvc/3ndIDLuI-uqvlQVug83fHw/view?utm_content=DAFRxisYpvc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 - 📫 How to reach me **merhanmostafa47@gmail.com**
 - 🌱 I’m currently worked at [Spider-te8](https://www.facebook.com/spiderte8)
 - :nerd_face: Always `learning new things`
