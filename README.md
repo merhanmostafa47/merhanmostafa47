@@ -17,8 +17,8 @@
 <a href="https://app.daily.dev/merhanmostafa47" align='right'><img align='right' src="https://api.daily.dev/devcards/febd585fac1649d29984f849f813f30a.png?r=pf4" width="270" alt="Merhan Mostafa's Dev Card"/></a>
 
 ## :sassy_man:  About me
-- :school: I am a `Senior` at Faculty of Computers & Informatics at Mansoura University
-- :student: I’m currently learning: `Javascript`.
+- :school: I am a `graduated` from the Faculty of Computers & Informatics at Mansoura University
+- :student: I’m currently learning: `Vue js`.
 - 🔭 I’m currently working on building my portfolio 
 - :thinking: I’m currently open for: `An Intern`, this is [My Resume](https://www.canva.com/design/DAFRxisYpvc/3ndIDLuI-uqvlQVug83fHw/view?utm_content=DAFRxisYpvc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 - 📫 How to reach me **merhanmostafa47@gmail.com**
