@@ -32,8 +32,9 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=tokyonight" alt="Merhan" /></p>
-
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com/?user=merhanmostafa47&theme=tokyonight" alt="Merhan" />
+</p>	
 
 ## 🛠️ My Skills
 
