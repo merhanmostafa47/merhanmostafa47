@@ -18,8 +18,7 @@
 
 ## :sassy_man:  About me
 - :school: I am a `graduated` from the Faculty of Computers & Informatics at Mansoura University
-- :student: I’m currently learning: `Nuxt3`.
-- 🔭 I’m currently working on building my portfolio 
+- :student: I’m currently learning: `Typescript`.
 - 📫 How to reach me **merhanmostafa47@gmail.com**
 - 🌱 I’m currently worked at [Neop](https://www.linkedin.com/company/neopksa/)
 - :nerd_face: Always `learning new things`
@@ -71,6 +70,8 @@
  <img alt="Bootstarp" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 &emsp;
  <img alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+	 &emsp;
+    <img alt="Zod" src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white">
   &emsp;
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   &emsp;
